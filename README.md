@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem-vindo au meu perfil💙
 
-<!--
-**raysinha2022/raysinha2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 📎 me chamo Raysa 
 
-Here are some ideas to get you started:
+ sou aluna do ALURA, e estudante da 2ª ano
+ Esse espaço e dedicado para organizar e compartilhar meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### quer entrar em contato? envie um 📫
+  raysa.olariop@escola.pr.gov.br 
+  
+  @raysa.olario
+
+  ![](https://media.tenor.com/BCT3TW9ZODYAAAAM/kid-scream.gif)
